@@ -41,3 +41,6 @@ de discord.gg/navelya discordundan, destek  kanalından
 - Kont esnasında yetkiliye hakaret / küfür etmeye  başlarsanız 
 yetkili sizi önce uyarır, devam etmeniz taktirde kontrolu bırakıp 
 banlıyabilir 
+
+
+https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download
